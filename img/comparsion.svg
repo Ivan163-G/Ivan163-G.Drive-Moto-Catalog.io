@@ -1,0 +1,16 @@
+<svg id="Group" xmlns="http://www.w3.org/2000/svg" width="20" height="26.969" viewBox="0 0 20 26.969">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2f3035;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1256,439.771h0a2,2,0,0,1,2,2V449.5a2,2,0,0,1-2,2h0a2,2,0,0,1-2-2V441.77A2,2,0,0,1,1256,439.771Z" transform="translate(-1238 -424.531)"/>
+  <rect id="Rectangle_17.1" data-name="Rectangle 17.1" class="cls-2" x="8" width="4" height="26.969" rx="2" ry="2"/>
+  <rect id="Rectangle_17.2" data-name="Rectangle 17.2" class="cls-2" y="9.375" width="4" height="17.594" rx="2" ry="2"/>
+</svg>

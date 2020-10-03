@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.563" height="16.5" viewBox="0 0 17.563 16.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2f3035;
+        stroke-width: 1.5px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Vector" class="cls-1" d="M442.171,428.143h5.9v12.021a0.893,0.893,0,0,1-.97.836H432.892a0.89,0.89,0,0,1-.892-0.916V428.143h5.823" transform="translate(-431.25 -425.25)"/>
+  <path id="Vector-2" data-name="Vector" class="cls-1" d="M442.385,428.143h5.631c0.039,0,.078-0.032.039-0.064l-2.1-2.079H434.113l-2.1,2.079c-0.039.032,0,.064,0.038,0.064h5.632" transform="translate(-431.25 -425.25)"/>
+  <path id="Vector-3" data-name="Vector" class="cls-1" d="M442.714,428.143L441.782,426h-3.4l-1.025,2.143" transform="translate(-431.25 -425.25)"/>
+  <path id="Vector-4" data-name="Vector" class="cls-1" d="M442.714,428.143v4.285l-2.61-1.506-2.748,1.506v-4.285" transform="translate(-431.25 -425.25)"/>
+  <path id="Vector-5" data-name="Vector" class="cls-1" d="M441.986,436.714h-3.864a0.858,0.858,0,0,1-.766-0.925V435.5a0.855,0.855,0,0,1,.766-0.926h3.824a0.858,0.858,0,0,1,.765.926v0.292A0.8,0.8,0,0,1,441.986,436.714Z" transform="translate(-431.25 -425.25)"/>
+</svg>
